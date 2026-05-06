@@ -20,9 +20,13 @@
 - **Pygame**: Графический движок.
 - **PyInstaller**: Сборка в исполняемый файл.
 
-## 🚀 Как запустить
+## 🚀 Как запустить 2 способа:
 
-### Из исходного кода:
+### I) Скачай готовую программу `Tic-Tac-Toe.exe` из раздела [Releases](https://github.com/Zheka-m-p/Workshop/releases/tag/Tic_Tac_Toe_10x10_v1.01)
+
+
+
+### II) Из исходного кода:
 1. Установите зависимости:
    ```bash
    pip install pygame

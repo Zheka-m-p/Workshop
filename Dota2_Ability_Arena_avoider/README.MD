@@ -5,7 +5,7 @@ AlphaWolf анализирует экран в реальном времени, 
 
 ## 🚀 Быстрый старт (для обычных пользователей)
 
-1.  Скачай `AlphaWolf.exe` из раздела [Releases](https://github.com/Zheka-m-p/Workshop/releases/latest)
+1.  Скачай `AlphaWolf.exe` из раздела [Releases](https://github.com/Zheka-m-p/Workshop/releases/tag/AlphaWolf_v1.15)
 2.  Запусти `AlphaWolf.exe` (Windows может показать предупреждение — нажми «Выполнить в любом случае»).
 3.  Введи **свой никнейм** в поле «Твой никнейм».
 4.  (Опционально) Добавь своих нежелательных игроков через кнопку **➕ Добавить игрока**.
