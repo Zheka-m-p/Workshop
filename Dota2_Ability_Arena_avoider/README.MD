@@ -5,7 +5,7 @@ AlphaWolf анализирует экран в реальном времени, 
 
 ## 🚀 Быстрый старт (для обычных пользователей)
 
-1.  Скачай `AlphaWolf.exe` из раздела [Releases](https://github.com/...).
+1.  Скачай `AlphaWolf.exe` из раздела [Releases](https://github.com/Zheka-m-p/Workshop/releases/latest)
 2.  Запусти `AlphaWolf.exe` (Windows может показать предупреждение — нажми «Выполнить в любом случае»).
 3.  Введи **свой никнейм** в поле «Твой никнейм».
 4.  (Опционально) Добавь своих нежелательных игроков через кнопку **➕ Добавить игрока**.
@@ -37,12 +37,9 @@ AlphaWolf анализирует экран в реальном времени, 
 1.  Установи зависимости:
     ```bash
     pip install requests pyautogui pytesseract Pillow transliterate pyinstaller
-
 2.  Скопируй папку Tesseract-OCR (с tesseract.exe и папкой tessdata) в корень проекта.
 
 3.  Выполни сборку одной командой:
       ```bash
       pyinstaller --onefile --name "AlphaWolf" --icon=wolf.ico --add-data "Tesseract-OCR;Tesseract-OCR" --noconsole final_try_to_exe_file.py```
-
-
 4.  Готовый AlphaWolf.exe появится в папке dist.
